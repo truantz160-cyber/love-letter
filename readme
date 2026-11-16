@@ -1,1 +1,207 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>To My Favourite Person ❤️</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 25px 12px;
+    background: #e8dfd2;
+    min-height: 100vh;
+}
+
+.notebook {
+    max-width: 750px;
+    margin: auto;
+    padding: 35px 20px 45px 48px;
+    position: relative;
+    background-color: #fffdf3;
+
+    background-image:
+    repeating-linear-gradient(
+        transparent,
+        transparent 35px,
+        #a9c8df 36px,
+        transparent 37px
+    );
+
+    box-shadow:
+    0 5px 25px rgba(0,0,0,0.15);
+
+    border-radius: 3px;
+}
+
+.notebook::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 35px;
+    width: 2px;
+    background: #e8a0a0;
+    opacity: 0.8;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 27px;
+    font-weight: 500;
+    color: #923f52;
+    line-height: 1.4;
+    margin: 0 0 25px;
+}
+
+.heart {
+    text-align: center;
+    color: #c56b7c;
+    font-size: 23px;
+    margin: 12px 0 25px;
+}
+
+.letter {
+    font-family: 'Caveat', cursive;
+    font-size: 21px;
+    line-height: 36px;
+    color: #303b50;
+    white-space: pre-line;
+}
+
+.signature {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    color: #923f52;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 13px;
+    color: #aa6977;
+    margin-top: 35px;
+}
+
+@media(max-width:480px) {
+    body {
+        padding: 12px 7px;
+    }
+
+    .notebook {
+        padding: 28px 14px 35px 42px;
+    }
+
+    .notebook::before {
+        left: 30px;
+    }
+
+    h1 {
+        font-size: 23px;
+    }
+
+    .letter {
+        font-size: 19px;
+        line-height: 36px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="notebook">
+
+<h1>To the girl who slowly became my favourite person,</h1>
+
+<div class="heart">♡ &nbsp; ♡ &nbsp; ♡</div>
+
+<div class="letter">
+I don't even know where to begin. There are so many things I want to tell you, so many feelings I want to put into words, and somehow, even a thousand pages wouldn't feel enough. But I guess I'll try, because you deserve to know just how special you have become to me.
+
+It's funny, isn't it? How someone can enter your life on an ordinary day, without any grand entrance or warning, and slowly become someone you can't imagine your days without. September 17th. I don't think I knew that day would eventually mean so much to me. We started with a little flirting, a few conversations, maybe some smiles and butterflies that neither of us really knew what to do with. Nothing seemed particularly serious back then. But look at us now. Somewhere between those conversations, those little moments, those silly things we say, and all the time we've spent getting to know each other, you became someone incredibly important to me.
+
+I don't know exactly when it happened. I can't point to one particular conversation or one particular moment and say, "That's when I fell for her." Maybe it was gradual. Maybe it was every time you made me smile without even trying. Maybe it was the way talking to you started becoming the best part of my day. Or maybe it was simply you being you.
+
+And honestly? I'm glad it happened.
+
+I love the little things about you. Things you probably don't even notice about yourself. The way you talk, the way you express yourself, the little details you share, your personality, your smile, and all those tiny things that make you the person you are. I love getting to know different sides of you. I love discovering things about you that I didn't know before. I love how someone can make me smile just by appearing on my screen. It's ridiculous how much happiness one notification can bring me, but that's what you've become for me.
+
+Sometimes I catch myself smiling at my phone like an idiot, rereading something you've said, or thinking about a conversation we had hours ago. And I hope you know that you have that effect on me. You make ordinary moments feel special. You make random days feel a little brighter. And even when we're doing absolutely nothing, just talking about the most random things, I find myself wishing the conversation would never end.
+
+I want you to know that I don't just like the idea of you. I want to know the real you. The happy you, the sleepy you, the overthinking you, the stubborn you, the quiet you, the excited you, and even the version of you that doesn't feel like being okay. I want to know about your dreams, your fears, your favourite things, the things that annoy you, the things that make you laugh uncontrollably, and the things you usually keep to yourself.
+
+I don't expect you to be perfect. I don't want some imaginary version of you. I want you to feel comfortable being exactly who you are around me. You don't have to pretend, hide your emotions, or constantly have the right words. You can be yourself. That's the person I've grown to adore.
+
+And I know you're not ready for a relationship right now. I understand that, and I respect it. I don't want this letter to feel like an expectation or an attempt to change your mind. I don't want you to feel that you owe me anything just because I'm telling you how I feel. Love shouldn't feel like pressure, and the last thing I'd ever want is for my feelings to become a burden on you.
+
+I just want to be honest about what's happening in my heart.
+
+I am falling for you. Actually, I think I've fallen pretty hard already. And it's a beautiful, slightly terrifying feeling. Because suddenly, there's someone whose happiness matters to me in ways I can't quite explain. Someone I want to tell everything to. Someone whose day I genuinely want to make better. Someone I want to celebrate, encourage, annoy, laugh with, and make countless memories with.
+
+I don't know what the future holds for us. I don't know where we'll be a few months from now or what life has planned. And I don't want to make promises about things neither of us can predict. But I do know that what I feel for you is real, and I don't want to pretend otherwise.
+
+If there's one thing I hope you never doubt, it's how much you mean to me. You are special. Not because I expect anything from you, not because of what we might become, but simply because of who you are.
+
+I hope you never feel like you have to rush yourself for me. Take your time. Figure things out. Grow, experience life, chase your dreams, and become everything you want to become. I want you to be happy, genuinely happy, even on the days when I'm not the reason behind your smile.
+
+And if you ever have a bad day, I hope you remember that there's someone out here who thinks you're wonderful. Someone who would happily listen to you talk about absolutely nothing for hours. Someone who wants to know whether you've eaten, whether you've slept properly, whether something is bothering you, and whether you're doing okay. Someone who wants to celebrate your smallest achievements as if they're the biggest victories in the world.
+
+I wish I could bottle up the feeling I get when I talk to you and give it to you, just so you could understand what you do to me. Maybe then you'd understand why I call you pretty even when you don't think you look your best, why I smile at the smallest things you do, and why I sometimes struggle to explain just how much I adore you.
+
+I want to make memories with you. The silly ones, the spontaneous ones, the unforgettable ones. I want random pictures, long conversations, stupid jokes that only we understand, little arguments over absolutely nothing, and moments that we'll look back on someday and laugh about. I want the ordinary things too. Because with the right person, even an ordinary Tuesday can become a beautiful memory.
+
+And if someday we get to experience all those things together, I'll consider myself incredibly lucky.
+
+Until then, I don't want to force a story that is still being written. I want to enjoy the pages we're on right now. I want to appreciate what we have, get to know you more, and let things happen naturally.
+
+But there's something I need you to know.
+
+If I could go back to September 17th, knowing everything I know now, I'd still choose to start that conversation. I'd still flirt with you. I'd still take the chance of getting to know you. I'd still want to experience every little moment that brought us here.
+
+Because meeting you has been one of those unexpected things that makes life feel a little more beautiful.
+
+I don't know if I tell you enough, but you're genuinely one of my favourite people. And I hope I get to keep discovering more reasons to love the person you are. I hope I get to see you achieve your dreams, watch you grow, witness your happiest moments, and be around for the little things that make life worth living.
+
+Please never underestimate how lovely you are. And please don't ever think you have to become someone else to be loved. You, exactly as you are, are more than enough.
+
+I could keep writing, honestly. I could write about how beautiful you are, how much I adore you, how your presence makes my days better, and how grateful I am that our paths crossed. But even after all these paragraphs, I feel like I've only managed to explain a fraction of it.
+
+So I'll end with this.
+
+Thank you for being you. Thank you for coming into my life. Thank you for every conversation, every laugh, every little moment, and every feeling I didn't know I was capable of experiencing.
+
+I don't know what we will call this someday, or whether we'll ever find the perfect words to describe what we have. But right now, I know that I like you more than I can explain, I care about you more than you probably realise, and I'm genuinely, ridiculously, hopelessly fond of you.
+
+And if life gives me the chance, I'd love to keep choosing you, one day at a time.
+</div>
+
+<div class="heart">♡</div>
+
+<div class="signature">
+You are my favourite unexpected beginning.<br><br>
+
+With all the love I have,<br>
+
+Your idiot, who smiles at his phone because of you. ❤️
+</div>
+
+<div class="footer">
+— A little piece of my heart, written just for you —
+</div>
+
+</div>
+
+</body>
+</html>
+
